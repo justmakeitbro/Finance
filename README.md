@@ -52,14 +52,6 @@ otherwise.
 - **One ledger, many statements.** Every statement is a pure re-arrangement of the same
   raw data, which is why they can be proven consistent.
 
-## How to run
-
-1. Install the dependencies:
-   ```bash
-   pip install pandas numpy openpyxl
-   ```
-2. Open `Financial_Statements_from_GL.ipynb` in Jupyter and run all cells.
-   The notebook expects `Finacial_Data.xlsx` in the same folder.
 
 ## Next ideas
 
